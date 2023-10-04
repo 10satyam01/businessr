@@ -15,16 +15,17 @@ Fully Customizable
 Working Contact Form
 Desktop Photos
 ----------
-![image](https://github.com/10satyam01/businessr/assets/88096042/eb57d512-2a47-4fa1-8cfe-a17395de51f5)
-![image](https://github.com/10satyam01/businessr/assets/88096042/edabd950-b8b5-4076-8f7c-f9ca342f7467)
-![image](https://github.com/10satyam01/businessr/assets/88096042/7d7e8426-574d-4382-bb05-342401c0c35c)
-![image](https://github.com/10satyam01/businessr/assets/88096042/76681b35-5c3b-41f5-b711-3268faf49fd9)
+![image](https://github.com/10satyam01/businessr/assets/88096042/14cd9d11-98a1-4a9d-b478-47b99ac9d1ff)
+![image](https://github.com/10satyam01/businessr/assets/88096042/78392f90-a576-4033-891a-d345ba8015f6)
+![image](https://github.com/10satyam01/businessr/assets/88096042/2ec19fd5-2ca3-4045-9afd-814bb96825d9)
+![image](https://github.com/10satyam01/businessr/assets/88096042/8e790b90-364e-4fbd-8c4a-4d2f5ae331b2)
 
 Phone Photos
 -------------
-![image](https://github.com/10satyam01/businessr/assets/88096042/98c3bad3-a14b-4234-9ccf-224ed2d3a81b)
-![image](https://github.com/10satyam01/businessr/assets/88096042/17a35ee0-e15c-4b26-a485-685087ddaf9d)
-![image](https://github.com/10satyam01/businessr/assets/88096042/4f7313c0-7158-466f-8d4c-da67cafd7bbf)
+![image](https://github.com/10satyam01/businessr/assets/88096042/9ad5d9c6-3bc1-4227-9a37-ab4e66cc4960)
+![image](https://github.com/10satyam01/businessr/assets/88096042/592f9f69-cfa9-4882-93c6-c0b62c9eafc9)
+![image](https://github.com/10satyam01/businessr/assets/88096042/4baa3f25-b394-446b-8ab7-cd66d9f9ef0a)
+
 
 
 
